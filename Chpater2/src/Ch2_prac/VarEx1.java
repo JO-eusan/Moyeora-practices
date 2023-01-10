@@ -1,4 +1,4 @@
-package VarEx1;
+package Ch2_prac;
 
 public class VarEx1 {
 
