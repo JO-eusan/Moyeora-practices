@@ -25,10 +25,16 @@ public class MultiArrEx3 {
 			for(int j=0; j < COL; j++) {
 				for(int k=0; k < M2_ROW; k++) {
 					m3[i][j] += m1[i][k] * m2[k][j];
-					
-		// 행렬 m3출력
 				}
 			}
+		}
+		
+		// 행렬 m3를 출력
+		for(int i=0; i < ROW; i++) {
+			for(int j=0; j < COL; j++) {
+				System.out.printf("%3d ", m3[i][j]);
+			}
+			System.out.println();
 		}
 
 	}
