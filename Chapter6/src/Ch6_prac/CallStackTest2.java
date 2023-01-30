@@ -18,5 +18,4 @@ public class CallStackTest2 {
 		System.out.println("secondMethod()이 시작"); // 3
 		System.out.println("secondMethod()이 끝"); // 4
 	}
-
 }

@@ -16,5 +16,4 @@ public class PowerTest {
 		if(n==1) return x;
 		return x*power(x, n-1);
 	}
-
 }

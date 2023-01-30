@@ -18,5 +18,4 @@ public class ReferenceReturnEx {
 		tmp.x = d.x;
 		return tmp;
 	}
-
 }

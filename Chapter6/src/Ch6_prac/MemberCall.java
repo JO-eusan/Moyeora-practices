@@ -30,5 +30,4 @@ public class MemberCall {
 		staticMethod1();
 		instanceMethod1();
 	}
-
 }

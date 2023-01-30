@@ -20,7 +20,6 @@ public class TvTest {
 		t.channel = 7; // tv인스턴스의 멤버변수 channel의 값을 7로 한다.
 		t.channelDown(); // tv인스턴스 메서드 channelDown()을 호출
 		System.out.println("현재 채널은 " + t.channel + " 입니다.");
-
 	}
 
 }

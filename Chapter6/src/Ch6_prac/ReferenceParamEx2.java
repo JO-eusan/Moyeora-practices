@@ -16,5 +16,4 @@ public class ReferenceParamEx2 {
 		x[0] = 1000;
 		System.out.println("change() : x = " + x[0]);
 	}
-
 }

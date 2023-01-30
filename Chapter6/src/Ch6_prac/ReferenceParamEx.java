@@ -19,5 +19,4 @@ public class ReferenceParamEx {
 		d.x = 1000; // 주소값 자체를 변경
 		System.out.println("change() : x = " + d.x);
 	}
-
 }

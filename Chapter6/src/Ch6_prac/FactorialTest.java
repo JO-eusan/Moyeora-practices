@@ -18,5 +18,4 @@ public class FactorialTest {
 		}
 		return result;
 	}
-
 }

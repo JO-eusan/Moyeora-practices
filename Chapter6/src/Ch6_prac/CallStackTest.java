@@ -13,5 +13,4 @@ public class CallStackTest {
 	static void secondMethod() {
 		System.out.println("secondMethod()");
 	}
-
 }

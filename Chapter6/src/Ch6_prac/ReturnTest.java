@@ -21,5 +21,4 @@ public class ReturnTest {
 	void add(int a, int b, int[] result) {
 		result[0] = a + b; // 매개변수로 넘겨받은 배열에 연산결과를 저장
 	}
-
 }

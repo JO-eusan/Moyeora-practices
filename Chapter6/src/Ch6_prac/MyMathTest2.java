@@ -33,5 +33,4 @@ public class MyMathTest2 {
 		System.out.println(mm.multiply());
 		System.out.println(mm.divide());
 	}
-
 }
