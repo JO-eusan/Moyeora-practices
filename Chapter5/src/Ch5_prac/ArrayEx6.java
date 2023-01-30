@@ -21,5 +21,4 @@ public class ArrayEx6 {
 		System.out.println("ÃÖ¼Ò°ª : " + min);
 
 	}
-
 }

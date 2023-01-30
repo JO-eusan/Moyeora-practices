@@ -54,5 +54,4 @@ public class MultiArrEx2 {
 			 } 
 		} while(num!=0);
 	} 	
-
 }

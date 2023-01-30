@@ -17,5 +17,4 @@ public class ArrayEx5 {
 		System.out.println("ÃÑÁ¡ : " + sum);
 		System.out.println("Æò±Õ : " + average);
 	}
-
 }

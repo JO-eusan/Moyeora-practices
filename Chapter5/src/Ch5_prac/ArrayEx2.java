@@ -29,5 +29,4 @@ public class ArrayEx2 {
 		System.out.println(iArr3);
 		System.out.println(chArr);
 	}
-
 }

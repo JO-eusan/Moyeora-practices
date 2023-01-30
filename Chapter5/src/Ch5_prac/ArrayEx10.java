@@ -29,7 +29,6 @@ public class ArrayEx10 {
 			}
 			System.out.println();
 		}
-
 	}
 
 }

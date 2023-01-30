@@ -36,7 +36,6 @@ public class ArrayEx19 {
 		
 		System.out.println("============================");
 		System.out.printf("รัมก:%3d %4d %4d%n", korTotal, engTotal, mathTotal);
-
 	}
 
 }

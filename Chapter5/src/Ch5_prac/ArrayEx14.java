@@ -17,5 +17,4 @@ public class ArrayEx14 {
 		System.out.println(chArr);
 
 	}
-
 }

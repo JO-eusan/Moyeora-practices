@@ -21,7 +21,6 @@ public class ArrayEx4 {
 		// number의 인덱스6 위치에 3개를 복사
 		System.arraycopy(abc, 0, num, 6, 3);
 		System.out.println(num);
-
 	}
 
 }

@@ -14,5 +14,4 @@ public class ArrayEx15 {
 		System.out.println("morse: " + result);
 
 	}
-
 }

@@ -16,5 +16,4 @@ public class ArrayEx9 {
 		System.out.println(Arrays.toString(arr));
 
 	}
-
 }

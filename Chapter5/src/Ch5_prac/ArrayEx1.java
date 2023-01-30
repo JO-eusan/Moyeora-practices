@@ -21,7 +21,6 @@ public class ArrayEx1 {
 		
 		System.out.printf("tmp:%d%n", tmp);
 		System.out.printf("score[%d]:%d%n", 7, score[7]); // index 범위를 벗어난 값
-
 	}
 
 }
