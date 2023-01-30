@@ -13,6 +13,7 @@ public class ScannerEx {
 		System.out.printf("num = %d%n", num);
 		
 		scanner.close();
+		
 	}
 
 }

@@ -14,6 +14,7 @@ public class OperatorEx11 {
 		System.out.printf("'%c'=%d%n", d, (int)d);
 		System.out.printf("'%c'=%d%n", zero, (int)zero);
 		System.out.printf("'%c'=%d%n", two, (int)two);
+		
 	}
 
 }

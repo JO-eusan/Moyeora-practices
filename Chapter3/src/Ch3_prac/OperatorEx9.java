@@ -8,7 +8,6 @@ public class OperatorEx9 {
 		
 		System.out.println("a=" + a);
 		System.out.println("b=" + b); // 계산할 때, long타입으로 변경
-
 	}
 
 }

@@ -8,7 +8,6 @@ public class OperatorEx21 {
 		System.out.printf("'A' == 65  \t %b%n", 'A' == 65);
 		System.out.printf("'A' > 'B' \t %b%n", 'A' > 'B');
 		System.out.printf("'A'+1 != 'B'  \t %b%n", 'A'+1 != 'B');
-
 	}
 
 }

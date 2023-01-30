@@ -12,7 +12,6 @@ public class FloatEx1 {
 		System.out.printf("f : %24.20f%n", f);
 		System.out.printf("f2 : %24.20f%n", f2);
 		System.out.printf("d : %24.20f%n", d);
-
 	}
 
 }

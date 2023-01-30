@@ -8,7 +8,6 @@ public class CastingEx1 {
 		
 		System.out.println("score = " + score);
 		System.out.println("d = " + d); // 형변환 이후에도 아무 변화 없다.
-
 	}
 
 }

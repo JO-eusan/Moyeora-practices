@@ -8,7 +8,6 @@ public class OperatorEx17 {
 		
 		System.out.println(shortPi);
 		
-
 	}
 
 }

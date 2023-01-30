@@ -15,6 +15,7 @@ public class StringEx {
 		System.out.println("" + ""); //
 		System.out.println(7 + 7 + ""); // 14
 		System.out.println("" + 7 + 7); // 77 (¹®ÀÚ¿­)
+		
 	}
 
 }

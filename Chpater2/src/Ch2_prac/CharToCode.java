@@ -10,7 +10,6 @@ public class CharToCode {
 		
 		char hch = '°¡';
 		System.out.printf("%c = %d(%#X) %n", hch, (int)hch, (int)hch);
-
 	}
 
 }

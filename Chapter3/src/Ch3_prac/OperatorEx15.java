@@ -6,7 +6,6 @@ public class OperatorEx15 {
 		char lowerCase = 'a';
 		char upperCase = (char)(lowerCase - 32);
 		System.out.println(upperCase);
-		
 
 	}
 

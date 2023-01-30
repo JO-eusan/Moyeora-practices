@@ -18,7 +18,6 @@ public class CastingEx2 {
 		b = -2;
 		i = (int)b;
 		System.out.printf("[int -> byte] b=%d -> i=%d%n", b, i);
-		
 		System.out.println("i =" + Integer.toBinaryString(i)); // 10진 정수를 2진 정수로 변환
 	}
 

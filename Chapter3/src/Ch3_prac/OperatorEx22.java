@@ -16,7 +16,6 @@ public class OperatorEx22 {
 		System.out.printf("d == d2 %b%n", d==d2);
 		System.out.printf("d2 == f %b%n", d2==f);
 		System.out.printf("(float)d == f %b%n", (float)d==f);
-
 	}
 
 }

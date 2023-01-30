@@ -10,7 +10,6 @@ public class OperatorEx10 {
 		
 		System.out.printf("%d * %d / %d = %d%n", a, a, a, result1); // 오버플로우 발생
 		System.out.printf("%d / %d * %d = %d%n", a, a, a, result2);
-
 	}
 
 }

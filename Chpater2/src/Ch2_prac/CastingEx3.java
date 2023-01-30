@@ -10,7 +10,6 @@ public class CastingEx3 {
 		System.out.printf("f = %20.18f\n", f);
 		System.out.printf("d = %20.18df\n", d);
 		System.out.printf("d2 = %20.18f\n", d2);
-
 	}
 
 }

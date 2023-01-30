@@ -9,6 +9,7 @@ public class OperatorEx13 {
 		char c2 = 'a' + 1;
 		
 		System.out.println(c2);
+		
 	}
 
 }

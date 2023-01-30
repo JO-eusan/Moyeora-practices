@@ -24,6 +24,7 @@ public class OperatorEx24 {
 		
 		ch = 'q';
 		System.out.printf("ch='%c', ch=='q' || ch=='Q' =%b%n", ch, ch=='q' || ch=='Q');
+		
 	}
 
 }

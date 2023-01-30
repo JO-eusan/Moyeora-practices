@@ -8,7 +8,6 @@ public class FloatToBinEx {
 		
 		System.out.printf("%f%n", f);
 		System.out.printf("%X%n", i);
-
 	}
 
 }

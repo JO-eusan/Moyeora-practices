@@ -16,6 +16,7 @@ public class OperatorEx12 {
 		System.out.println("i=" + i);
 		System.out.println("c2=" + c2);
 		System.out.println("c3=" + c3);
+		
 	}
 
 }

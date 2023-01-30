@@ -20,6 +20,7 @@ public class OperatorEx14 {
 			System.out.print(c++); // 0부터 10개의 문자 출력
 		}
 		System.out.println();
+		
 	}
 
 }

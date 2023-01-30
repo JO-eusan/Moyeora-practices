@@ -4,7 +4,6 @@ public class PrintfEx2 {
 
 	public static void main(String[] args) {
 		String url = "www.codechobo.com";
-		
 		float f1 = .10f; //0.10
 		float f2 = 1e1f; // 10.0
 		float f3 = 3.14e3f; // 3140.0

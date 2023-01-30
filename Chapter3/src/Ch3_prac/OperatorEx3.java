@@ -7,7 +7,6 @@ public class OperatorEx3 {
 		System.out.println(i++); // 값이 증가되기 전에 참조
 		System.out.println(++j); // 값이 증가되고 참조
 		System.out.println("i = " + i + ", j = " + j);
-
 	}
 
 }

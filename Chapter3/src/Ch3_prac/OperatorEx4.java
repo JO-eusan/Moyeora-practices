@@ -10,7 +10,6 @@ public class OperatorEx4 {
 		i = -10; // 값 초기화
 		i = -i; // 부호 연산자 '-'
 		System.out.println(i);
-
 	}
 
 }

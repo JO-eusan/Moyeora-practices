@@ -13,6 +13,7 @@ public class OperatorEx23 {
 		System.out.printf("str2.equals(\"abc\") ? %b%n", str2.equals("abc"));
 		System.out.printf("str2.equals(\"ABC\") ? %b%n", str2.equals("ABC"));
 		System.out.printf("str2.equalsIgnoreCase(\"ABC\") ? %b%n", str2.equalsIgnoreCase("ABC"));
+		
 	}
 
 }

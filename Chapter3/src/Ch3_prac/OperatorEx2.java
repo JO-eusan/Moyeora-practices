@@ -14,6 +14,7 @@ public class OperatorEx2 {
 		
 		j = ++i;
 		System.out.println("j=++i; ½ÇÇà ÈÄ, i= " + i + ", j= " + j);
+		
 	}
 
 }
