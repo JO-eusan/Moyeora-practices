@@ -20,6 +20,7 @@ public class OperatorEx25 {
 		}
 		
 		scanner.close();
+		
 	}
 
 }
